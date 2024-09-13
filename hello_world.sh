@@ -2,3 +2,7 @@
 # This is our first script.
 echo 'Hello World!'
 
+#print the list of files in the directory
+echo 'These are the files in the directory: '
+ls
+
